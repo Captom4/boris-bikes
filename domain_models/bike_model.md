@@ -3,6 +3,6 @@
 | Objects | Messages            |
 | ------- | ---------           |
 | Person  | Verified            | 
-| Bike    | Working & Good      |
+| Bike    | Working?            |
 | Customer| Paid                |
 | DockingStation| release_bike  |
