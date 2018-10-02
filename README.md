@@ -1,6 +1,6 @@
 # Boris-Bikes Challenge
 
-Tom Hird
+Made by Tom Hird
 
 # Getting Started
 
