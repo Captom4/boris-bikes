@@ -1,8 +1,12 @@
-# User story to domain model
+# User story to domain model:
 
 | Objects | Messages            |
 | ------- | ---------           |
 | Person  | Verified            | 
-| Bike    | Working?            |
+| Bike    | Working & good      |
 | Customer| Paid                |
-| DockingStation| release_bike  |
+| Docking Station| Release  |
+
+# Object Communication:
+
+Bike <--Working--> true/false DockingStation <--ReleaseABike--> A Bike Customer <--Person--> Person
