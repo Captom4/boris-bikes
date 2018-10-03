@@ -13,7 +13,3 @@ ruby -v
 If you don't have ruby install you can type this bit into the console:
 
 sudo apt-get install ruby-full
-
-# People I have worked with:
-
-Charley Gooch
